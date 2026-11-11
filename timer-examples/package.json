@@ -28,7 +28,7 @@
     "@temporalio/client": "^1.0.0",
     "@temporalio/worker": "^1.0.0",
     "@temporalio/workflow": "^1.0.0",
-    "axios": "0.26.1",
+    "axios": "0.34.0",
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
@@ -49,6 +49,6 @@
     "ts-mocha": "^10.0.0",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.2",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.3"
   }
 }
